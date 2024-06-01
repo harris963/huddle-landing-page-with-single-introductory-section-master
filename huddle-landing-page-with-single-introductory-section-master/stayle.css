@@ -18,7 +18,6 @@ body{
     width: 80%;
     max-width: 1284px;
     margin: 0 auto;
-    height:1448px;
     padding: 0 20px;
 }
 .mockups{
@@ -92,9 +91,6 @@ button:hover{
         background-image: url(./images/bg-desktop.svg);
         background-size: cover; 
     }
-   .con{
-       height: 568px;
-   }
     .s1{
         display:flex;
         justify-content: space-between; 
